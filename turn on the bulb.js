@@ -16,5 +16,11 @@ const solve = (a) => {
     return bulb;
 }
 
-console.log(solve(3));
+let abc = "Shreepad Avhad";
+
+console.log(abc);
+
+delete abc;
+
+console.log(abc);
 
